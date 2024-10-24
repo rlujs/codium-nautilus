@@ -1,4 +1,4 @@
-# VSCode Nautilus Extension
+# VSCodium Nautilus Extension
 #
 # Place me in ~/.local/share/nautilus-python/extensions/,
 # ensure you have python-nautilus package, restart Nautilus, and enjoy :)
@@ -10,10 +10,10 @@ from subprocess import call
 import os
 
 # path to vscode
-VSCODE = 'code'
+VSCODE = 'codium'
 
 # what name do you want to see in the context menu?
-VSCODENAME = 'Code'
+VSCODENAME = 'VSCodium'
 
 # always create new window?
 NEWWINDOW = False

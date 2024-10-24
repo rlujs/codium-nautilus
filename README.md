@@ -1,15 +1,15 @@
-# code-nautilus
+# codium-nautilus
 
-This repo provides a visual studio code extension for Nautilus.
+This repository provides a VSCodium extension for Nautilus, allowing you to open files and directories directly in VSCodium from the file context menu.
 
 ## Install Extension
 
 ```
-wget -qO- https://raw.githubusercontent.com/harry-cpp/code-nautilus/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/rlujs/codium-nautilus/master/install.sh | bash
 ```
 
 ## Uninstall Extension
 
 ```
-rm -f ~/.local/share/nautilus-python/extensions/code-nautilus.py
+rm -f ~/.local/share/nautilus-python/extensions/codium-nautilus.py
 ```
